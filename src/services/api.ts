@@ -1,4 +1,4 @@
-const API_ENDPOINT = 'http://localhost:8000';
+const API_ENDPOINT = 'https://backend-tech-anxg.onrender.com';
 
 export const checkBackendHealth = async () => {
   try {
