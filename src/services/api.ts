@@ -1,4 +1,4 @@
-const API_ENDPOINT = 'https://backend-tech-anxg.onrender.com';
+const API_ENDPOINT = 'https://occusafe-tech.onrender.com';
 
 export const checkBackendHealth = async () => {
   try {
